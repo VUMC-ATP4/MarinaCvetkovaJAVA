@@ -57,7 +57,7 @@ float highestTempretore = 32F;
         summa = pirmaisSkaitlis + otraisSklaitlis;
         System.out.println(pirmaisSkaitlis + "+" + otraisSklaitlis + "=" + summa);
 
-        int sarpiba = pirmaisSkaitlis - otraisSklaitlis;
+
 int dalijums = pirmaisSkaitlis / otraisSklaitlis;
 int reizinajums = pirmaisSkaitlis * otraisSklaitlis;
 int atlikums = pirmaisSkaitlis % otraisSklaitlis;
