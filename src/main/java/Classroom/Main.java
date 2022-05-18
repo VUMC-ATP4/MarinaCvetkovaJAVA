@@ -1,3 +1,5 @@
+package Classroom;
+
 public class Main {
     public static void main(String[] args) {
         System.out.println( " Hello Marina pirmā lekcija");
@@ -61,10 +63,8 @@ float highestTempretore = 32F;
 int dalijums = pirmaisSkaitlis / otraisSklaitlis;
 int reizinajums = pirmaisSkaitlis * otraisSklaitlis;
 int atlikums = pirmaisSkaitlis % otraisSklaitlis;
-        String starpiba;
-        System.out.println("starpiba" + starpiba);
-        System.out.println();
-        System.out.println();
-        System.out.println();
+        String starpiba = null;
+        System.out.println("starpiba" + "starpiba");
+
     }
 }
