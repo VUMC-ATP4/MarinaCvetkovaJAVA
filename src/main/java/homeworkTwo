@@ -1,0 +1,88 @@
+package HomeWork;
+
+import java.util.Scanner;
+
+public class HomeWorkTwo {
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+
+
+
+
+        //   int x = 5;
+      //  System.out.println(x > 0); 1. uzdevums a.
+
+       // int x = -5;
+       // System.out.println(x > 5); 1. uzdevums b.
+
+      //  int x = 10;
+       // System.out.println(x > 5 && x <= 10); 1. uzdevums c.
+
+       // int x = 10;
+        //System.out.println(x >= 5 || x <= 10); 1. uzdevums d.
+
+      //  int x = 5;
+      //  System.out.println(x == 10);
+      //  System.out.println(x == 0); 1. uzdevums e.
+
+     //   int x = 10;
+      //  System.out.println(x * x > 10); 1. uzdevums f.
+
+
+
+
+//        int month = 1;  2. uzdevums
+//
+//        switch (month) {
+//            case 1:
+//                System.out.println("Janvaris");
+//                break;
+//            case 2:
+//                System.out.println("Februāris");
+//                break;
+//            case 3:
+//                System.out.println("Marts");
+//                break;
+//            case 4:
+//                System.out.println("Aprīlis");
+//                break;
+//            case 5:
+//                System.out.println("Maijs");
+//                break;
+//            case 6:
+//                System.out.println("Jūnījs");
+//                break;
+//            case 7:
+//                System.out.println("Jūlījs");
+//                break;
+//            case 8:
+//                System.out.println("August");
+//                break;
+//            case 9:
+//                System.out.println("Septembris");
+//                break;
+//            case 10:
+//                System.out.println("Oktobris");
+//                break;
+//            case 11:
+//                System.out.println("Novembris");
+//                break;
+//            case 12:
+//                System.out.println("Decembris");
+//            default:
+
+        if(6>3 && 6>4);{
+            System.out.println(" Seši ir lielaks par trīs un četri");
+        }
+        //3. uzdevums.
+    public class Variable{
+            public static  void  main (String[]augs){
+                if(ja luksaforā zaļa gaisma)
+            }
+
+
+
+
+        }
+    }
+}
